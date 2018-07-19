@@ -9,5 +9,5 @@ def fizz_buzz(number)
   else
     return number.to_s()
   end
-  
+
 end
